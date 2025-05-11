@@ -1,2 +1,3 @@
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lar000ki&hide_border=true&layout=compact" align="center" /></div>
-<br />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=40&duration=1000&color=17CF00&width=435&height=80&lines=~%24+Hello;~%24+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;~%24+%E4%BD%A0%E5%A5%BD;~%24+Hola;~%24+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;~%24+Bonjour;~%24+Ol%C3%A1;~%24+Halo;~%24+Hallo;~%24+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;~%24+Merhaba;~%24+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94" alt="Typing SVG" /></a>
+<br /><br /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lar000ki&hide_border=true&layout=compact&theme=dark" align="center" />
